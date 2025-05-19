@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @SELVASTROM
 - 👀 I’m interested in solving problems
-- - 🌱 I’m currently learning frontend
+-- 🚀 Working on a Full Stack Developer 45-Day Challenge
+
+--🧩 Day 8 Project: [To-Do List](https://github.com/your-username/to-do-list-day8)
+A simple to-do list app to add/delete tasks. Built using HTML, CSS Grid, and JavaScript.
+
 - 💞️ I’m looking to collaborate on
 - 📫 selvassra12345@gmail.com
 - 7502943985
