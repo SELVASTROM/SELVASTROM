@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems
 -- 🚀 Working on a Full Stack Developer 45-Day Challenge
 
---🧩 Day 8 Project: [To-Do List](https://github.com/your-username/-to-do-list-day8)
+--🧩 Day 8 Project: [To-Do List](https://github.com/SELVASTROM/-to-do-list-day8)
 A simple to-do list app to add/delete tasks. Built using HTML, CSS Grid, and JavaScript.
 
 - 💞️ I’m looking to collaborate on
