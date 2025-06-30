@@ -18,7 +18,7 @@
 
 ## 📌 Projects
 - ✅ [Student CRUD Portal](https://crud-portal.onrender.com): Web-based app using Java, JSP, JDBC, and MySQL
-- ✅ To-Do List App: Lightweight productivity tool using HTML, CSS, JavaScript
+- ✅ [To-Do List App](https://selvastrom.github.io/-to-do-list-day8/): Lightweight productivity tool using HTML, CSS, JavaScript
 - ✅ [Linked List Quiz App](https://selvastrom.github.io/LinkedList-Quiz-using-frontend/): Educational JavaScript app to test data structure knowledge
 
 ## 📫 Connect with Me
