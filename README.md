@@ -1,17 +1,30 @@
-- 👋 Hi, I’m @SELVASTROM
-- 👀 I’m interested in solving problems
--- 🚀 Working on a Full Stack Developer 45-Day Challenge
+# 💻 Selvamurugan K
 
---🧩 Day 8 Project: [To-Do List](https://selvastrom.github.io/-to-do-list-day8/)
-A simple to-do list app to add/delete tasks. Built using HTML, CSS Grid, and JavaScript.
+🎓 Final-year B.E. Electrical and Electronics Engineering Student  
+👨‍💻 Aspiring Java Full Stack Developer | Passionate about building scalable web applications
 
-- 💞️ I’m looking to collaborate on
-- 📫 selvassra12345@gmail.com
-- 7502943985
-- 😄 Pronouns: skillful
-- ⚡ Fun fact: ...
+## 🚀 About Me
+- 💡 I'm interested in backend development, REST APIs, and modern web technologies
+- 🔧 Currently sharpening my DSA & problem-solving skills using Java
+- 🌐 Love creating responsive and clean UIs using HTML, CSS, JavaScript & Bootstrap
+- 🌱 Learning cloud deployment, MySQL optimization, and modern frameworks
+- 💬 Ask me about Java, JSP, JDBC, Servlets, MySQL, and web hosting
 
-<!---
-SELVASTROM/SELVASTROM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+- Languages: `Java`, `SQL`, `HTML`, `CSS`, `JavaScript`
+- Frameworks: `Spring (learning)`, `Bootstrap`, `JSP`
+- Tools: `Git`, `Render`, `Tomcat`, `VS Code`, `Eclipse`
+- Databases: `MySQL`, `SQLite`
+
+## 📌 Projects
+- ✅ [Student CRUD Portal](https://crud-portal.onrender.com): Web-based app using Java, JSP, JDBC, and MySQL
+- ✅ To-Do List App: Lightweight productivity tool using HTML, CSS, JavaScript
+- ✅ Linked List Quiz App: Educational JavaScript app to test data structure knowledge
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/selva-murugan-k/)
+- 🧠 DSA Learning in Progress (Java)
+
+---
+
+📍“I code with purpose and build to learn. Every line brings me closer to my dream.”
